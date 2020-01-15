@@ -24,8 +24,19 @@ const cardForPartyMaker = {
 }
 
 const theBestMember = Object.create(cardForPartyMaker, {
-    name: { value: 'Vadim Veselov' },
+    name: {
+        value: "Veselov Vadim",
+    },
     programmingLanguage: { value: 'Clojure' },
 })
 
+const progressToSenior = Object.create(theBestMember, {
+    middleToSenior: {
+        value: true
+    }
+})
+
+theBestMember.value = 'lol'
+
 console.log(theBestMember.registration())
+console.log(progressToSenior.registration())

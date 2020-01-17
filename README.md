@@ -10,4 +10,7 @@
 ### 3. Singleton
 #### Result: realized example with database connection (to must have single instance)
 
+### 4. Adapter
+#### Result: adapted old form for request in new support service
+
 to be continued...

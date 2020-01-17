@@ -21,7 +21,6 @@ class GoodSupportService {
 }
 
 class AdapterForNewSupport {
-    static initialized 
     constructor() {
         this.initialized = new GoodSupportService()
     }

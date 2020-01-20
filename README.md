@@ -13,4 +13,7 @@
 ### 4. Adapter
 #### Result: adapted old form for request in new support service
 
+### 5. Constructor
+#### Result: implemented two options for creating a constructor (old and new ~ function and class)
+
 to be continued...

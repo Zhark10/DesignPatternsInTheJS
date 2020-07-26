@@ -16,4 +16,10 @@
 ### 5. Constructor
 #### Result: implemented two options for creating a constructor (old and new ~ function and class)
 
+### 6. Decorator
+#### Result: assignment of skills to specialists with different qualifications via a decorator pattern.
+
+### 7. Facade
+#### Result: simplification of student enrollment in programming courses.
+
 to be continued...
